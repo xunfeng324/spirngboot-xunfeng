@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: xunfeng-shiro
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sir.H
+Implementation-Vendor-Id: com.xunfeng
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/xunfeng/xunfeng-shiro
+Created-By: Maven Integration for Eclipse
+
